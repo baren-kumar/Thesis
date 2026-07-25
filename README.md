@@ -110,11 +110,5 @@ Generated explanations include:
 
 ---
 
-# Citation
-
-If you use this repository in your research, please cite the corresponding thesis or publication.
-
----
-
 **Author:** Engineer Baren Kumar Baidya
 **Research Area:** Physics-Informed Deep Learning • Composite Materials • Machine Learning • Explainable AI • Finite Element Analysis
