@@ -56,12 +56,10 @@ The PINN incorporates multiple physical laws during training:
 * Failure Constraint using Inverse Reserve Factor
 
 The total loss function combines data loss with physics-based residual losses.
+**Total Loss Function**
 
-[
-L_{Total}=L_{Data}+\lambda_1L_{Hooke}+\lambda_2L_{CLT}+\lambda_3L_{Energy}+\lambda_4L_{Failure}
-]
-
----
+L_Total = L_Data + λ₁L_Hooke + λ₂L_CLT + λ₃L_Energy + λ₄L_Failure
+--
 
 # Explainable AI
 
