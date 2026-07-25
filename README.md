@@ -87,36 +87,9 @@ Generated explanations include:
 * SHAP
 * Matplotlib
 * ANSYS ACP
-* Google Colab
+* Python Colab
 
----
 
-# Repository Structure
-
-```text
-Project/
-│
-├── Dataset/
-│   ├── UD_CFRP_Dataset.csv
-│
-├── PINN/
-│   ├── PINN_Model.ipynb
-│   ├── best_model.keras
-│
-├── Results/
-│   ├── Predictions.csv
-│   ├── Evaluation_Metrics.csv
-│
-├── Figures/
-│   ├── Training_Loss.png
-│   ├── SHAP_Summary.png
-│   ├── Regression_Plot.png
-│
-├── README.md
-└── requirements.txt
-```
-
----
 
 # Research Objectives
 
