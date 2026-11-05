@@ -2,7 +2,7 @@ Here is a professional **GitHub README** for your thesis project.
 
 ---
 
-# Physics-Informed Explainable Deep Learning for Mechanical Property and Ply-Wise Failure Prediction of UD CFRP Laminates
+# Physics-Informed Explainable Deep Learning for Mechanical Property and Failure Prediction of UD CFRP Laminates
 
 ## Project Overview
 
